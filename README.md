@@ -10,7 +10,7 @@ By simulating academic schedules, exam periods, holidays, and student behavior, 
 
 
 
-**🔗 Live Demo:** https://archittguptao7.github.io/Smart-attendance-pattern-analyzer/
+**🔗 Live Demo:** [Smart Attendance Pattern Analyzer](https://archittguptao7.github.io/Smart-attendance-pattern-analyzer/)
 
 ---
 
